@@ -2,12 +2,8 @@
   "name": "PLN Network",
   "chain": "PLN",
   "icon": "pln",
-  "rpc": [
-    "https://oneagent.uk/rpc"
-  ],
-  "faucets": [
-    "https://oneagent.uk"
-  ],
+  "rpc": ["https://oneagent.uk/rpc"],
+  "faucets": ["https://oneagent.uk"],
   "nativeCurrency": {
     "name": "PLN",
     "symbol": "PLN",
